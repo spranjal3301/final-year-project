@@ -4,6 +4,10 @@ BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP
 
 [Full tutorial](https://www.youtube.com/watch?v=lCyQ717DuzQ)
 
+<a href="https://glama.ai/mcp/servers/@spranjal3301/final-year-project">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@spranjal3301/final-year-project/badge" alt="BlenderMCP MCP server" />
+</a>
+
 ### Join the Community
 
 Give feedback, get inspired, and build on top of the MCP: [Discord](https://discord.gg/z5apgR8TFU)
