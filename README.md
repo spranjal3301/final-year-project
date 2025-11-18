@@ -197,4 +197,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Disclaimer
 
-This is a third-party integration and not made by Blender. Made by [Siddharth](https://x.com/sidahuj)
+This is a third-party integration. Made by [Pranjal](https://x.com/spranjal394)
